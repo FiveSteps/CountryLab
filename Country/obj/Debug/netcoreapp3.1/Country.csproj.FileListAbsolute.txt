@@ -1,0 +1,13 @@
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.exe
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.deps.json
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.runtimeconfig.json
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.runtimeconfig.dev.json
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.dll
+C:\Users\JackYellow\Desktop\Country\Country\bin\Debug\netcoreapp3.1\Country.pdb
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.AssemblyInfoInputs.cache
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.AssemblyInfo.cs
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.dll
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.pdb
+C:\Users\JackYellow\Desktop\Country\Country\obj\Debug\netcoreapp3.1\Country.genruntimeconfig.cache
